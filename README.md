@@ -8,7 +8,7 @@ Sou fundador da [Skwren](https://skwren.com).
 [![Instagram Badge](https://img.shields.io/badge/-nelioasjunior-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/nelioasjunior)](https://instagram.com/nelioasjunior)
 [![Twitter Badge](https://img.shields.io/badge/-nelioasjunior-black?style=flat-square&logo=X&logoColor=white&link=https:twitter.com/oilenj)](https://twitter.com/oilenj)
 [![Linkedin Badge](https://img.shields.io/badge/-Nelio%20Júnior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nelio-junior)](https://www.linkedin.com/in/nelio-junior)
-[![Mail Badge](https://img.shields.io/badge/-neliojr@neliojr.me-blue?style=flat-square&logo=maildotru&logoColor=white&link=mailto:neliojr@neliojr.me)](mailto:neliojr@neliojr.me)
+[![Mail Badge](https://img.shields.io/badge/-contato@neliojr.me-blue?style=flat-square&logo=maildotru&logoColor=white&link=mailto:contato@neliojr.me)](mailto:contato@neliojr.me)
 
 ## 🚀💻 Tecnologias & Ferramentas
 
